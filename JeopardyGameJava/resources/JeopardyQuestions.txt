@@ -1,0 +1,151 @@
+Basketball,This NBA team holds the record for the most championships won in history.,Boston Celtics,100
+Basketball,Which player has won the most NBA MVP awards?,Kareem Abdul-Jabbar,200
+Basketball,Who is known as "The King" in the NBA?,LeBron James,300
+Basketball,Which player holds the record for the highest points scored in a single NBA game?,Wilt Chamberlain,400
+Basketball,Which NBA team drafted Michael Jordan in 1984?,Chicago Bulls,500
+Football,Which country won the 2018 FIFA World Cup?,France,100
+Football,Who is the all-time leading goal scorer in FIFA World Cup history?,Miroslav Klose,200
+Football,Which player has won the most FIFA Ballon d'Or awards?,Lionel Messi,300
+Football,Which country has won the most UEFA European Championship titles?,Germany,400
+Football,Which club has won the most UEFA Champions League titles?,Real Madrid,500
+Soccer,Which player holds the record for the most goals scored in a single Premier League season?,Mohamed Salah,100
+Soccer,Who won the 2020 UEFA European Championship?,Italy,200
+Soccer,Which country has won the most FIFA Women's World Cup titles?,United States,300
+Soccer,Who is the all-time leading goal scorer in international men's football?,Ali Daei,400
+Soccer,Which player has won the most FIFA World Cup Golden Boots?,Just Fontaine,500
+Science,What is the chemical symbol for gold?,Au,100
+Science,Who is credited with discovering penicillin?,Alexander Fleming,200
+Science,What is the largest organ in the human body?,Skin,300
+Science,What is the process by which plants make their own food called?,Photosynthesis,400
+Science,What is the fastest animal on land?,Cheetah,500
+Geography,What is the capital of Australia?,Canberra,100
+Geography,Which is the longest river in the world?,Nile River,200
+Geography,What is the largest desert in the world?,Sahara Desert,300
+Geography,What is the smallest country in the world?,Vatican City,400
+Geography,What is the highest mountain in Africa?,Mount Kilimanjaro,500
+History,Who was the first president of the United States?,George Washington,100
+History,In what year did World War II end?,1945,200
+History,Who was the last emperor of Russia?,Nicholas II,300
+History,Which ancient civilization built the pyramids?,Ancient Egyptians,400
+History,Who was the first female Prime Minister of the United Kingdom?,Margaret Thatcher,500
+Art,Who painted the Mona Lisa?,Leonardo da Vinci,100
+Art,Which artist is famous for cutting off his own ear?,Vincent van Gogh,200
+Art,Who created the sculpture "David"?,Michelangelo,300
+Art,What is the name of the famous painting of a screaming figure by Edvard Munch?,The Scream,400
+Art,Which art movement was Salvador Dalí associated with?,Surrealism,500
+Computer Science,What does HTML stand for?,Hypertext Markup Language,100
+Computer Science,Who is considered the father of modern computer science?,Alan Turing,200
+Computer Science,What programming language is often used for artificial intelligence?,Python,300
+Computer Science,What does VPN stand for?,Virtual Private Network,400
+Computer Science,What is the process of finding errors and fixing them in a program called?,Debugging,500
+Mathematics,What is the value of π (pi) to two decimal places?,3.14,100
+Mathematics,Who is credited with creating the concept of zero?,Aryabhata,200
+Mathematics,What is the Pythagorean theorem?,a² + b² = c²,300
+Mathematics,What is the formula for finding the area of a circle?,πr²,400
+Mathematics,What is the largest prime number less than 100?,97,500
+Movies,Which movie won the Academy Award for Best Picture in 2020?,Parasite,100
+Movies,Who directed the movie "The Shawshank Redemption"?,Frank Darabont,200
+Movies,Which actor played the character of Neo in the movie "The Matrix"?,Keanu Reeves,300
+Movies,Who won the Academy Award for Best Actor in 2019?,Rami Malek,400
+Movies,What is the highest-grossing film of all time (unadjusted for inflation)?,Avatar,500
+Music,Who is known as the "King of Pop"?,Michael Jackson,100
+Music,Which band performed the hit song "Bohemian Rhapsody"?,Queen,200
+Music,Who is the lead vocalist of the band "Coldplay"?,Chris Martin,300
+Music,Which artist released the album "Thriller"?,Michael Jackson,400
+Music,What is the best-selling album of all time?,Michael Jackson's "Thriller",500
+Physics,What is the unit of measurement for force?,Newton,100
+Physics,What is the formula for calculating velocity?,Velocity = Distance / Time,200
+Physics,What is the SI unit of electric current?,Ampere,300
+Physics,What does E=mc² stand for?,Energy equals mass times the speed of light squared,400
+Physics,What is the phenomenon where light changes direction when passing through different mediums?,Refraction,500
+Literature,Who wrote "To Kill a Mockingbird"?,Harper Lee,100
+Literature,What is the opening line of "Pride and Prejudice" by Jane Austen?,It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.,200
+Literature,Who wrote the play "Romeo and Juliet"?,William Shakespeare,300
+Literature,Which novel features the character Sherlock Holmes?,A Study in Scarlet,400
+Literature,What is the sequel to "Alice's Adventures in Wonderland"?,Through the Looking-Glass,500
+Animals,What is the largest species of bear?,Polar Bear,100
+Animals,What is the fastest land animal?,Cheetah,200
+Animals,What is the only mammal capable of sustained flight?,Bat,300
+Animals,What is a group of lions called?,Pride,400
+Animals,What is the name of the largest living primate?,Gorilla,500
+Space,What is the name of the largest moon of Jupiter?,Ganymede,100
+Space,What is the name of the closest galaxy to the Milky Way?,Andromeda,200
+Space,What is the hottest planet in our solar system?,Venus,300
+Space,What is the name of the spacecraft that landed the first humans on the Moon?,Apollo 11,400
+Space,What is the term for the sudden brightening of a star?,Supernova,500
+Food,What is the main ingredient in guacamole?,Avocado,100
+Food,What type of pasta is shaped like small rice grains?,Orzo,200
+Food,What is the primary ingredient in hummus?,Chickpeas,300
+Food,What is the traditional Japanese seasoning made from fermented soybeans?,Miso,400
+Food,What is the national dish of Spain?,Paella,500
+Mythology,Who is the Greek god of the sea?,Poseidon,100
+Mythology,Who is the Norse god of thunder?,Thor,200
+Mythology,Who is the Roman equivalent of the Greek god Ares?,Mars,300
+Mythology,Who is the Egyptian god of the afterlife?,Osiris,400
+Mythology,Who is the Hindu god of destruction and transformation?,Shiva,500
+Fashion,What French phrase means "high sewing" and is used to describe high-end custom-made clothing?,Haute couture,100
+Fashion,What is the name of the iconic fashion designer known for her little black dresses?,Coco Chanel,200
+Fashion,What Italian luxury fashion house is known for its signature red-soled shoes?,Christian Louboutin,300
+Fashion,What is the name of the fabric made from the fibers of the flax plant?,Linen,400
+Fashion,Who is the editor-in-chief of Vogue magazine (as of 2024)?,Anna Wintour,500
+Architecture,What famous Parisian landmark was designed by Gustave Eiffel?,Eiffel Tower,100
+Architecture,Who designed the Sydney Opera House?,Jørn Utzon,200
+Architecture,What ancient wonder is located in Giza, Egypt?,Great Pyramid of Giza,300
+Architecture,What style of architecture is characterized by its pointed arches and ribbed vaults?,Gothic architecture,400
+Architecture,What is the world's tallest building (as of 2024)?,Burj Khalifa,500
+Languages,What is the most spoken language in the world by native speakers?,Mandarin Chinese,100
+Languages,What is the official language of Brazil?,Portuguese,200
+Languages,What is the word for "hello" in Spanish?,Hola,300
+Languages,What is the second most spoken language in the United States?,Spanish,400
+Languages,What is the official language of Australia?,English,500
+Medicine,What is the medical term for the voice box?,Larynx,100
+Medicine,What is the hormone responsible for regulating blood sugar levels?,Insulin,200
+Medicine,What is the largest organ in the human body?,Skin,300
+Medicine,What is the medical term for the thigh bone?,Femur,400
+Medicine,What is the condition where the bones become brittle and fragile from loss of tissue?,Osteoporosis,500
+Psychology,Who developed the psychoanalytic theory?,Sigmund Freud,100
+Psychology,What is the fear of spiders called?,Arachnophobia,200
+Psychology,Who proposed the hierarchy of needs in psychology?,Abraham Maslow,300
+Psychology,What is the term for a mental shortcut that allows people to solve problems quickly and efficiently?,Heuristic,400
+Psychology,What is the psychological term for the fear of missing out?,FOMO (Fear of Missing Out),500
+Sports,What is the name of the annual championship game of the National Football League (NFL)?,Super Bowl,100
+Sports,What sport is played at Wimbledon?,Tennis,200
+Sports,What is the maximum number of players on a basketball team during a game?,12,300
+Sports,In what year was the first modern Olympic Games held?,1896,400
+Sports,Who is the all-time leading goal scorer in the FIFA Women's World Cup?,Marta,500
+Travel,What is the capital city of Spain?,Madrid,100
+Travel,Which Asian country is known as the Land of the Rising Sun?,Japan,200
+Travel,What is the largest country in Africa by land area?,Algeria,300
+Travel,What is the name of the longest river in South America?,Amazon River,400
+Travel,What is the currency of India?,Indian Rupee,500
+Environment,What is the process by which plants use sunlight to synthesize foods from carbon dioxide and water?,Photosynthesis,100
+Environment,What is the main greenhouse gas responsible for climate change?,Carbon dioxide (CO2),200
+Environment,What is the term for the gradual increase in the Earth's average temperature due to human activities?,Global warming,300
+Environment,What is the name of the layer of the Earth's atmosphere that protects life on Earth by absorbing most of the Sun's ultraviolet radiation?,Ozone layer,400
+Environment,What is the largest rainforest in the world?,Amazon Rainforest,500
+Business,What is the largest company in the world by revenue (as of 2024)?,Walmart,100
+Business,Who is the founder of Amazon.com?,Jeff Bezos,200
+Business,What is the stock symbol for Google's parent company Alphabet Inc.?,GOOGL,300
+Business,What is the term for a company's first public offering of stock?,IPO (Initial Public Offering),400
+Business,What is the currency used in Japan?,Japanese Yen,500
+NHL,Which team has won the most Stanley Cup championships in NHL history?,Montreal Canadiens,100
+NHL,Who is the all-time leading scorer in NHL history?,Wayne Gretzky,200
+NHL,What is the term for a goal scored when a team is shorthanded?,Shorthanded goal,300
+NHL,What trophy is awarded annually to the NHL's most valuable player?,Hart Memorial Trophy,400
+NHL,Which player holds the record for the most goals scored in a single NHL season?,Wayne Gretzky,500
+NFL,Who is the all-time passing yards leader in NFL history?,Drew Brees,100
+NFL,Which team has won the most Super Bowl championships in NFL history?,New England Patriots,200
+NFL,What is the term for a play in which the quarterback is tackled behind the line of scrimmage before handing off or passing the ball?,Sack,300
+NFL,Who holds the record for the most career touchdowns scored in NFL history?,Jerry Rice,400
+NFL,What team drafted Tom Brady in the 2000 NFL Draft?,New England Patriots,500
+NBA,Who is the all-time leading scorer in NBA history?,Kareem Abdul-Jabbar,100
+NBA,Which team has won the most NBA championships in league history?,Los Angeles Lakers,200
+NBA,What is the term for a defensive play in which a player blocks a shot and gains possession of the ball?,Blocked shot,300
+NBA,Who is the youngest player to score 30,000 career points in the NBA?,LeBron James,400
+NBA,Who won the NBA Most Valuable Player (MVP) award for the 2020-2021 season?,Nikola Jokić,500
+NCAAF,What is the name of the college football playoff system used by the NCAA?,College Football Playoff (CFP),100
+NCAAF,Which team has won the most NCAA college football national championships?,Alabama Crimson Tide,200
+NCAAF,What is the term for the trophy awarded to the winner of the College Football Playoff National Championship game?,College Football Playoff National Championship Trophy,300
+NCAAF,Who won the Heisman Trophy in 2020?,DeVonta Smith,400
+NCAAF,What is the oldest college football bowl game still in existence?,Rose Bowl,500
+
